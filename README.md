@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-https://github-readme-stats.vercel.app/api ? Username=thayDias )] (https://github.com/anuraghazra/github-readme-stats)
