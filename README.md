@@ -24,8 +24,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayDias&show_icons=true&theme=material-palenight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayDias&layout=compact&theme=material-palenight"/>
 <div>
- 
- 
+  
 ##
   
  <div align="left">
