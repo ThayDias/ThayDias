@@ -1,10 +1,6 @@
-### Hello World!
+### *Hello World!*
 
- <div>
-  <a href="https://github.com/ThayDias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayDias&show_icons=true&theme=material-palenight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayDias&layout=compact&theme=material-palenight"/>
-<div>
+<em>Formada em Análise e Desenvolvimento de sistemas pela Fatec de São José do Rio Preto sendo apaixonada por programação com ênfase em front-end e IA. Atualmente, trabalho como desenvolvedora web front-end na FieldControl.<em>
 
   ##
    
@@ -17,7 +13,17 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
+   <img align="right" height="40" width="55" src="https://i.pinimg.com/originals/9f/b1/25/9fb125f1fedc8cc62ab5b20699ebd87d.gif">
+
 </div>
 
+ ##
 
-  ##
+ <div>
+  <a href="https://github.com/ThayDias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayDias&show_icons=true&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayDias&layout=compact&theme=material-palenight"/>
+<div>
+ 
+ 
+
