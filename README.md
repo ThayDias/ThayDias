@@ -15,14 +15,14 @@
    <img align="right" height="40" width="55" src="https://i.pinimg.com/originals/9f/b1/25/9fb125f1fedc8cc62ab5b20699ebd87d.gif">
 
 </div>
-<!-- 
+
  ##
 
  <div align="center">
   <a href="https://github.com/ThayDias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayDias&show_icons=true&theme=material-palenight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayDias&layout=compact&theme=material-palenight"/>
-<div> -->
+<div>
   
 ##
   
