@@ -31,13 +31,12 @@
 
  ##
 
- <div align="center">
+<!--  <div align="center">
   <a href="https://github.com/ThayDias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayDias&show_icons=true&theme=material-palenight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayDias&layout=compact&theme=material-palenight"/>
-<div>
+<div> -->
   
-##
   
  <div align="left">
   <a align="center"  href = "mailto: thaynnadias23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
