@@ -1,6 +1,6 @@
 ### *Hello World!*
 
-<em>Formada em Análise e Desenvolvimento de sistemas pela Fatec de São José do Rio Preto sendo apaixonada por programação com ênfase em front-end e IA. Atualmente, trabalho como analisa e desenvolvedora web na shift.<em>
+<em>Formada em Análise e Desenvolvimento de sistemas pela Fatec de São José do Rio Preto sendo apaixonada por programação com ênfase em front-end e IA. Atualmente, trabalho como analista e desenvolvedora web na shift.<em>
   
 
   ##
