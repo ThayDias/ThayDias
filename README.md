@@ -1,6 +1,6 @@
 ### *Hello World!*
 
-<em>Formada em Análise e Desenvolvimento de sistemas pela Fatec de São José do Rio Preto sendo apaixonada por programação com ênfase em front-end e IA. Atualmente, trabalho como full-stack developer na FieldControl.<em>
+<em>Formada em Análise e Desenvolvimento de sistemas pela Fatec de São José do Rio Preto sendo apaixonada por programação com ênfase em front-end e IA. Atualmente, trabalho como analisa e desenvolvedora web na shift.<em>
   
 
   ##
